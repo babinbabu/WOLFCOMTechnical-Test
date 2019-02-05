@@ -1,0 +1,224 @@
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\ApplicationInsights.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.dll.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.exe
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.exe.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.rsp
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.exe
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.exe.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.rsp
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.AppContext.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Console.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Compression.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Pipes.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.AccessControl.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Claims.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Principal.Windows.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.ValueTuple.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XPath.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.exe
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.exe.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.rsp
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\VBCSCompiler.exe
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Antlr3.Runtime.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Web.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.ApplicationInsights.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Newtonsoft.Json.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Diagnostics.DiagnosticSource.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Helpers.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Mvc.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Optimization.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Razor.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Deployment.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Razor.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WebGrease.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Helpers.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Mvc.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Optimization.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Razor.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Deployment.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Razor.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Newtonsoft.Json.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Antlr3.Runtime.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Diagnostics.DiagnosticSource.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Web.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csprojAssemblyReference.cache
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csproj.CoreCompileInputs.cache
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csproj.CopyComplete
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.ValueTuple.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Abstractions.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Container.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Mvc.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WebActivatorEx.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.dll.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.ValueTuple.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Abstractions.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Container.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Mvc.pdb
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.SqlServer.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.SqlServer.xml
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.config
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.dll
+D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\ApplicationInsights.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.dll.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.TechnicalTest.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.exe
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.exe.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csc.rsp
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.exe
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.exe.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\csi.rsp
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.AppContext.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Collections.Immutable.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Console.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Compression.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.FileSystem.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.IO.Pipes.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.AccessControl.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Claims.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Security.Principal.Windows.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.ValueTuple.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XPath.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.exe
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.exe.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\vbc.rsp
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\VBCSCompiler.exe
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\roslyn\VBCSCompiler.exe.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Antlr3.Runtime.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.SqlServer.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Web.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.WindowsServer.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.ApplicationInsights.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.Web.Infrastructure.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Newtonsoft.Json.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Diagnostics.DiagnosticSource.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.ValueTuple.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Helpers.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Mvc.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Optimization.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Razor.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Deployment.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Razor.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Abstractions.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Container.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Mvc.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WebActivatorEx.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WebGrease.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\WolfcomGlobal.CoreLib.dll.config
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\EntityFramework.SqlServer.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.ValueTuple.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Helpers.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Mvc.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Razor.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Deployment.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.WebPages.Razor.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Web.Optimization.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Newtonsoft.Json.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Abstractions.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Container.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Unity.Mvc.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Antlr3.Runtime.pdb
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\System.Diagnostics.DiagnosticSource.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.WindowsServer.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.AI.Web.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\bin\NLog.xml
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csprojAssemblyReference.cache
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csproj.CoreCompileInputs.cache
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.csproj.CopyComplete
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.dll
+D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.TechnicalTest\obj\Debug\WolfcomGlobal.TechnicalTest.pdb

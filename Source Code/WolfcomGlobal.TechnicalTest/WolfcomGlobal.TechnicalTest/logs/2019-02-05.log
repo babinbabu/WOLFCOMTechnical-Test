@@ -1,0 +1,57 @@
+2019-02-05 21:51:18.8647 ERROR This is an error message
+2019-02-05 21:51:47.8741 ERROR This is an error message
+2019-02-05 21:53:13.7601 ERROR This is an error message
+2019-02-05 21:54:34.8778 ERROR This is an error message
+2019-02-05 23:10:25.7321 ERROR This is an error messageSystem.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 39
+   at WolfcomGlobal.CoreLib.Persistence.Repositories.BillRepository.FindtheBilledAmount(BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Persistence\Repositories\BillRepository.cs:line 34
+2019-02-05 23:11:23.6664 ERROR This is an error messageSystem.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 39
+   at WolfcomGlobal.CoreLib.Persistence.Repositories.BillRepository.FindtheBilledAmount(BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Persistence\Repositories\BillRepository.cs:line 34
+2019-02-05 23:11:52.0636 ERROR This is an error messageSystem.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 39
+   at WolfcomGlobal.CoreLib.Persistence.Repositories.BillRepository.FindtheBilledAmount(BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Persistence\Repositories\BillRepository.cs:line 34
+2019-02-05 23:23:41.7945 ERROR This is an error messageSystem.Data.SyntaxErrorException: Syntax error: Missing operand before '=' operator.
+   at System.Data.ExpressionParser.Parse()
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26
+2019-02-05 23:26:45.1690 ERROR This is an error messageSystem.Data.SyntaxErrorException: Syntax error: Missing operand before '=' operator.
+   at System.Data.ExpressionParser.Parse()
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26
+2019-02-05 23:38:27.7571 ERROR This is an error messageSystem.Data.SyntaxErrorException: Syntax error: Missing operand before '=' operator.
+   at System.Data.ExpressionParser.Parse()
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26
+2019-02-05 23:39:11.1375 ERROR This is an error messageSystem.Data.SyntaxErrorException: Cannot interpret token '"' at position 6.
+   at System.Data.ExpressionParser.Scan()
+   at System.Data.ExpressionParser.Parse()
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26
+2019-02-05 23:41:38.4470 ERROR This is an error messageSystem.Data.SyntaxErrorException: Cannot interpret token '"' at position 6.
+   at System.Data.ExpressionParser.Scan()
+   at System.Data.ExpressionParser.Parse()
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26
+2019-02-05 23:51:55.0943 ERROR This is an error messageSystem.Data.EvaluateException: Cannot find column [DIS10].
+   at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WolfcomGlobal.CoreLib.Helpers.StringReplace.ComputeCondition(String value) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\StringReplace.cs:line 38
+   at WolfcomGlobal.CoreLib.Helpers.BillCalculation.ExecuteBillCalculation(List`1 PromotionList, BillViewModel Model) in D:\factory\Technical\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\Helpers\BillCalculation.cs:line 26

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WOLFCOMTechnicalTestModelStoreContainer" CdmEntityContainer="WOLFCOMTechnicalTestEntities">
+    <EntitySetMapping Name="PromoCodeDetails">
+      <EntityTypeMapping TypeName="WOLFCOMTechnicalTestModel.PromoCodeDetail">
+        <MappingFragment StoreEntitySet="PromoCodeDetails">
+          <ScalarProperty Name="PromoCodeId" ColumnName="PromoCodeId" />
+          <ScalarProperty Name="PromoCode" ColumnName="PromoCode" />
+          <ScalarProperty Name="PromoCodeRule" ColumnName="PromoCodeRule" />
+          <ScalarProperty Name="PromoCodeDiscount" ColumnName="PromoCodeDiscount" />
+          <ScalarProperty Name="CanAvailWithoutPromoCode" ColumnName="CanAvailWithoutPromoCode" />
+          <ScalarProperty Name="PromoCodeDescription" ColumnName="PromoCodeDescription" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

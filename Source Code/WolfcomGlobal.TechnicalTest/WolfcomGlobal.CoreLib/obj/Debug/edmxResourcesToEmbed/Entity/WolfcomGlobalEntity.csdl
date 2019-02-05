@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WOLFCOMTechnicalTestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PromoCodeDetail">
+    <Key>
+      <PropertyRef Name="PromoCodeId" />
+    </Key>
+    <Property Name="PromoCodeId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PromoCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PromoCodeRule" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PromoCodeDiscount" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CanAvailWithoutPromoCode" Type="Boolean" />
+    <Property Name="PromoCodeDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="WOLFCOMTechnicalTestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PromoCodeDetails" EntityType="Self.PromoCodeDetail" />
+  </EntityContainer>
+</Schema>
