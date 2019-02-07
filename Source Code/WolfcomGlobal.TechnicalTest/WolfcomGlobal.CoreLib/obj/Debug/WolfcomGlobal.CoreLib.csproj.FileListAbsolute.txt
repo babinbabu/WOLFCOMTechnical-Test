@@ -36,3 +36,22 @@ D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\Wol
 D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CopyComplete
 D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.dll
 D:\W\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.pdb
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.config
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll.config
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\WolfcomGlobal.CoreLib.pdb
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\NLog.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\bin\Debug\System.ValueTuple.xml
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csprojAssemblyReference.cache
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CoreCompileInputs.cache
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.csproj.CopyComplete
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.dll
+D:\WOLFCOM Technical Test\Source Code\WolfcomGlobal.TechnicalTest\WolfcomGlobal.CoreLib\obj\Debug\WolfcomGlobal.CoreLib.pdb

@@ -17,7 +17,7 @@ namespace WolfcomGlobal.CoreLib.Model
         }
         public BillResponseModel(decimal _actualAmount, decimal _promotionAmount=0)
         {
-            BilledAmount = _actualAmount- _promotionAmount;
+            BilledAmount = _actualAmount - _promotionAmount;
         }
     }
 

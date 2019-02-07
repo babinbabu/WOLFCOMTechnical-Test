@@ -18,46 +18,43 @@ namespace WolfcomGlobal.CoreLib.Persistence.Repositories
         #region BillingRepositorie
         public BillResponseModel FindtheBilledAmount(BillViewModel Model)
         {
+
             BillResponseModel Result = new BillResponseModel();
             Model.TotalPrice = Model.AmountPerPerson * Model.NumberofCustomers;
-            if (Model.PromoCode == Constants.NonePromoCode || string.IsNullOrEmpty(Model.PromoCode))
+            try
             {
-                using (WOLFCOMTechnicalTestEntities db = new WOLFCOMTechnicalTestEntities())
+                if (Model.PromoCode == Constants.NonePromoCode || string.IsNullOrEmpty(Model.PromoCode))
                 {
-                    try
+                    using (WOLFCOMTechnicalTestEntities db = new WOLFCOMTechnicalTestEntities())
                     {
-                        var WithoutPromoCodeList = db.PromoCodeDetails.Where(x => (x.CanAvailWithoutPromoCode == true)&& (x.Status==true)).ToList();
+                        var WithoutPromoCodeList = db.PromoCodeDetails.Where(x => (x.CanAvailWithoutPromoCode == true) && (x.Status == true)).ToList();
 
                         if (WithoutPromoCodeList.Count() == 0)
                             return new BillResponseModel(Model.TotalPrice);
 
                         Result = BillCalculation.ExecuteBillCalculation(WithoutPromoCodeList, Model);
-                    }
-                    catch (Exception ex)
-                    {
-                        logger.Error("This is an error message" + ex);
-                        return null;
+
+
                     }
                 }
-            }
-            else
-            {
-                using (WOLFCOMTechnicalTestEntities db = new WOLFCOMTechnicalTestEntities())
+                else
                 {
-                    try
+                    using (WOLFCOMTechnicalTestEntities db = new WOLFCOMTechnicalTestEntities())
                     {
-                        var WithPromoCodeList = db.PromoCodeDetails.Where(x => (x.CanAvailWithoutPromoCode == true || x.PromoCode == Model.PromoCode)&& (x.Status==true)).ToList();
+
+                        var WithPromoCodeList = db.PromoCodeDetails.Where(x => (x.CanAvailWithoutPromoCode == true || x.PromoCode == Model.PromoCode) && (x.Status == true)).ToList();
                         if (WithPromoCodeList.Count() == 0)
                             return new BillResponseModel(Model.TotalPrice);
 
                         Result = BillCalculation.ExecuteBillCalculation(WithPromoCodeList, Model);
-                    }
-                    catch (Exception ex)
-                    {
-                        logger.Error("This is an error message" + ex);
-                        return null;
+
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                logger.Error("This is an error message" + ex);
+                return null;
             }
             return Result;
         }
