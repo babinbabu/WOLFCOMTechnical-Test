@@ -26,16 +26,14 @@ namespace WolfcomGlobal.TechnicalTest.Controllers
         [HttpPost]
         public ActionResult BillCalculation(BillViewModel model)
         {
+            BillResponseModel Result = new BillResponseModel();
+
             if (ModelState.IsValid)
             {
-               var Result= _bill.FindtheBilledAmount(model);
+               Result= _bill.FindtheBilledAmount(model);
+            }
+            return Json(new { Result = Result }, JsonRequestBehavior.AllowGet);
 
-               return Json(new { Result = Result }, JsonRequestBehavior.AllowGet);
-            }
-            else
-            {
-                return Json(new { Result = "" }, JsonRequestBehavior.AllowGet);
-            }
         }
     }
 }

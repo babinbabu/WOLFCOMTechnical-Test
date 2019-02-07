@@ -34,7 +34,6 @@ namespace WolfcomGlobal.CoreLib.Persistence.Repositories
 
                         Result = BillCalculation.ExecuteBillCalculation(WithoutPromoCodeList, Model);
 
-
                     }
                 }
                 else
